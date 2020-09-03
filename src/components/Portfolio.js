@@ -7,7 +7,7 @@ class Portfolio extends React.Component{
     }
     render(){
         return(<div class="container text-center" >
-            <h4>Portfolio</h4>
+            <h3>Portfolio</h3>
             <div className="container">
         {this.state.apps.map((project,i) =>{
             return(<div className="card">

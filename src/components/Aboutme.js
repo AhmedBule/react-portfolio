@@ -2,7 +2,7 @@ import React from 'react';
 function Aboutme(){
     return(<div className="container">
 <section>
-        <h2>About Me</h2>
+        <h3>About Me</h3>
         <div id="section_grey_line"></div> 
         <img id="profile_image" src="assets/images/bio1-image.jpg" alt="Ahmed Bule" width="200" height="200"/>
 
