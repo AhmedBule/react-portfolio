@@ -1,15 +1,15 @@
 [
     {
-    "appname": "Password Generator",
-      "repo":"https://github.com/AhmedBule/password-generator",
-      "live":"https://ahmedbule.github.io/password-generator/",
-      "img":"/assets/images/768index.jpg"
+    "appname": "Notetaker",
+      "repo":"https://notetaker112.herokuapp.com/",
+      "live":"https://github.com/AhmedBule/notetaker",
+      "img":"/assets/images/notetaker.jpg"
     },
     {
-        "appname": "Password Generator",
-          "repo":"https://github.com/AhmedBule/password-generator",
-          "live":"https://ahmedbule.github.io/password-generator/",
-          "img":"/assets/images/768index.jpg"
+        "appname": "Burger App",
+          "repo":"https://github.com/AhmedBule/burger-",
+          "live":"https://mighty-meadow-74253.herokuapp.com/",
+          "img":"/assets/images/burger.jpg"
         },
         {
             "appname": "Password Generator",
