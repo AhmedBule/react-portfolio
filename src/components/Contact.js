@@ -15,10 +15,10 @@ function Contact() {
   </div>
   <button type="submit" className="btn btn-primary">Submit</button>
   <a href="https://www.linkedin.com/in/ahmed-bule-55b043a1/" target="_blank">
-          <img src="assets/images/linkedIn-icon.jpg" alt="LinkedIn"/>
+          <img src="assets/images/linkedIn-icon.jpg" width="50" height="50" alt="LinkedIn"/>
           </a>
           <a href="https://github.com/AhmedBule/" target="_blank">
-            <img src="assets/images/github-icon.jpg" alt="github"/>
+            <img src="assets/images/github-icon.jpg" width="50" height="50" alt="github"/>
             </a>
 
  <a href="mailto:ahmedbule01@gmail.com">Email me</a>

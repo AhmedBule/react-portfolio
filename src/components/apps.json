@@ -3,7 +3,8 @@
     "appname": "Notetaker",
       "repo":"https://notetaker112.herokuapp.com/",
       "live":"https://github.com/AhmedBule/notetaker",
-      "img":"/assets/images/notetaker.jpg"
+      "img":"/assets/images/notetaker.jpg",
+      "description":"This is aa full stack application with express package, writing to files using fs"
     },
     {
         "appname": "Burger App",
@@ -12,9 +13,9 @@
           "img":"/assets/images/burger.jpg"
         },
         {
-            "appname": "Password Generator",
-              "repo":"https://github.com/AhmedBule/password-generator",
-              "live":"https://ahmedbule.github.io/password-generator/",
+            "appname": "Weight-Converter App",
+              "repo":"https://github.com/AhmedBule/weight-converter-app",
+              "live":"https://ahmedbule.github.io/weight-converter-app/",
               "img":"/assets/images/768index.jpg"
             },
             {

@@ -5,7 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: brown;
+  background: linear-gradient(#e66465, #9198e5);
+  
+  color: white;
 }
 
 code {
@@ -29,4 +31,16 @@ h3 {
   letter-spacing: 3px;
   border-bottom: 2px solid grey;
   width: 100%;
+}
+nav {
+  font-family: 'Merriweather', serif;
+
+}
+
+p{
+font-family: 'Open Sans', sans-serif;
+}
+
+.sectionheader{
+  letter-spacing: 2rem;
 }
