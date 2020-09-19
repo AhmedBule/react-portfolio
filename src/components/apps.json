@@ -28,11 +28,11 @@
                   "description": "Employee-Directory is an application that lets a manager or a company filter or view non-sensitive data about other employees."
                 },
                 {
-                    "appname": "Password Generator",
-                      "repo":"https://github.com/AhmedBule/password-generator",
-                      "live":"https://ahmedbule.github.io/password-generator/",
-                      "img":"/assets/images/768index.jpg",
-                      "description": "An application that generates a random password based on user-selected criteria."
+                    "appname": "Weight-Converter App",
+                      "repo":"https://github.com/AhmedBule/weight-converter-app",
+                      "live":"https://ahmedbule.github.io/weight-converter-app/",
+                      "img":"/assets/images/weight-converter.jpg",
+                      "description": "A simple app that converts weights from grams, to kilograms, to ounces"
 
                     },
                     {
