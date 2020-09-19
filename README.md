@@ -30,6 +30,8 @@ Updated GitHub profile with pinned repositories featuring those same projects
 
 ### Deployment
 
+A deployed link the portfolio can be found here: https://ahmedbule.github.io/react-portfolio/
+
 
 ## Questions: 
 For any questions, feel free to email me at ahmedbule01@gmail.com
