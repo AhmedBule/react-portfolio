@@ -33,5 +33,13 @@
                       "live":"https://ahmedbule.github.io/password-generator/",
                       "img":"/assets/images/768index.jpg",
                       "description": "An application that generates a random password based on user-selected criteria."
-                    }
+
+                    },
+                    {
+                      "appname": "Team-Profile Generator",
+                        "repo":"https://github.com/AhmedBule/teamprofilegenerator-",
+                        "live":"https://github.com/AhmedBule/teamprofilegenerator-",
+                        "img":"/assets/images/team-profile.jpg",
+                        "description": "The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns."
+                      }
 ]
