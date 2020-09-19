@@ -25,7 +25,7 @@ Updated GitHub profile with pinned repositories featuring those same projects
 
 
 ## A sample Application 
-![screenshot](sample-picture.jpg)
+![screenshot](sample-picture.png)
 
 
 ### Deployment
